@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { Header } from './componentes/header/header';
 import { Footer } from './componentes/footer/footer';
-import { Filme } from './componentes/filme/filme';
+import { Filme } from './componentes/filme/filmes';
 
 @Component({
   selector: 'app-root',
